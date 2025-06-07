@@ -15,7 +15,11 @@ Discord Nuking Tool
 3. Put ur bot token, the guild id, name for the channels and roles, and message that it needs to spam
 
 ## Webhook Spammer
-Coming soon...
+- Can send a message to a webkook with ur message
+- Can spam a webhook with ur message
+- Can delete the webhook
+
+Embeds are not supported (yet)
 
 ## DISCLAIMER 🚨
 **I am not responsable for any actions done with this program.**
